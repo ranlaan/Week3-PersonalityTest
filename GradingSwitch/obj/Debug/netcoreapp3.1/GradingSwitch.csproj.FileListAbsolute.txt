@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\obj\Debug\netcoreapp3.1\GradingSwitch.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\obj\Debug\netcoreapp3.1\GradingSwitch.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\obj\Debug\netcoreapp3.1\GradingSwitch.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\obj\Debug\netcoreapp3.1\GradingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\bin\Debug\netcoreapp3.1\GradingSwitch.exe
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\bin\Debug\netcoreapp3.1\GradingSwitch.deps.json
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\bin\Debug\netcoreapp3.1\GradingSwitch.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\bin\Debug\netcoreapp3.1\GradingSwitch.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\bin\Debug\netcoreapp3.1\GradingSwitch.dll
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\bin\Debug\netcoreapp3.1\GradingSwitch.pdb
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\obj\Debug\netcoreapp3.1\GradingSwitch.dll
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\obj\Debug\netcoreapp3.1\GradingSwitch.pdb
+C:\Users\opilane\source\repos\LOGitpe21\PersonalityTest\GradingSwitch\obj\Debug\netcoreapp3.1\GradingSwitch.genruntimeconfig.cache
